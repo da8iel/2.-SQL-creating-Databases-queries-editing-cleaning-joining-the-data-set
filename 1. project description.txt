@@ -1,0 +1,10 @@
+MYSQL : CREATING MY OWN DATA SET, WITH DATA THAT IS NOT TOO COMPLEX, BUT INCLUDES ALMOST ALL THE SKILLS NEEDED IN MYSQL, AND USES DATASETS FROM KAGGLE.COM ALSO WITH THE LOADING METHOD IN MYSQL:
+March 2022
+Functions, stored procedures, hierarchical queries, indices, data modeling (normal forms, primary and foreign keys, table constraints), and transactions.
+
+1. daniel's company :
+creating a table about paper suplier company
+2. employee:
+about second company that sells paper
+3. study group:
+list of student and their role in study group
