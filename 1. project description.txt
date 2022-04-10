@@ -8,3 +8,5 @@ creating a table about paper suplier company
 about second company that sells paper
 3. study group:
 list of student and their role in study group
+4. how i start :
+how i start in sql 
