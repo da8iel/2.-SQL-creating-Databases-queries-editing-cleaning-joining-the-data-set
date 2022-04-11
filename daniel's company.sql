@@ -56,5 +56,9 @@ AND client_name != 'Jaya Selalu';
 SELECT client_name
 FROM client
 WHERE client_name LIKE 'BU%'
-OR client_name LIKE 'A%'
+OR client_name LIKE 'A%';
+
+SELECT daniel_company.full_name, client.client_name, client.total_sales
+FROM daniel_company
+INNER JOIN client ON daniel_company.id=client.emp_id;
 
